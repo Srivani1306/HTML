@@ -1,0 +1,21 @@
+body{
+  border: 50px solid blue;
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBN33Ni_sjTHArndX0g3qMnD_CNvbxkisBCA&usqp=CAU")
+}
+
+h1{
+  color: blue;
+}
+
+div{
+  color:cyan;
+}
+
+input{
+  background: cyan;
+}
+
+h1:hover{
+  color: red;
+  font-size: 70px;
+}

@@ -1,0 +1,19 @@
+body{
+  border: 50px solid blue;
+  background:url("")
+}
+
+h1{
+  color: blue;
+}
+
+
+
+input{
+  background: cyan;
+}
+
+h1:hover{
+  color: red;
+  font-size: 70px;
+}

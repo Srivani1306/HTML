@@ -1,0 +1,24 @@
+h1{
+  color: red;
+}
+
+div{
+  color:blue;
+}
+
+h1:hover{
+  background: cyan;
+  font-size: 40px
+}
+span{
+  color:pink;
+}
+
+input{
+  background: cyan;
+}
+
+form{
+  border: 50px solid blue;
+  background:url("")
+}
